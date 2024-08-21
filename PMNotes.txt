@@ -1,0 +1,11 @@
+- Client Management for Software Implementations
+- Research Project start to closure
+- Understand Use Cases and their requirements, Project objectives, and Scope
+- Effort estimates like project schedules and breakdown structures 
+- Learn good client note-taking
+- Prioritize work to meet deadlines best and proactively optimize teams' time and effort 
+- Identify, manage, and mitigate risks and issues
+- Learn how to present and demo using formal communication and be able to articulate project values and progress
+- Change Management 
+- Project Artifacts and versioning 
+- Escalation management with client issues
